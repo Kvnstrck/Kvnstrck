@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Kev, i do stuff with computers 👋
+
+
 
 <!--
 **Kvnstrck/Kvnstrck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
